@@ -25,7 +25,7 @@
  }
  
  function makeInt(n,base) {
-   base = 10
+   base = 10;
    return parseInt(n,base);
  }
  
